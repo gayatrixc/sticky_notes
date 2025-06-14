@@ -24,6 +24,6 @@ This is a simple Notes Web App built with React. It allows users to create and s
 - Click the "Save" button to save changes to the note.
 - Click the "❌" button in the top right corner of the note to close it.
 ## Credits
-This app was built by Arjun Sharma using React & TailwindCSS
+This app was built by Gayatriusing React & TailwindCSS
 
 
