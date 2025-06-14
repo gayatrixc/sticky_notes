@@ -14,7 +14,7 @@ This is a simple Notes Web App built with React. It allows users to create and s
 - Navigate to the project directory in the terminal
 - Run `npm install` to install the dependencies
 - Run `npm start` to start the development server
-- 👉 [Click here to view the Sticky Notes App](sticky-notes-project-by-g.vercel.app)
+- 👉 [Click here to view the Sticky Notes App](https://sticky-notes-project-by-g.vercel.app/)
 ## How to Use the App
 - Click on the "Create a Note" button to create a new note.
 - Enter a title and body for the note.
